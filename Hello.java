@@ -1,6 +1,6 @@
 class Hello{
 public static void main(String[] args){
-System.out.println("In javahellox86");
-System.out.println("javahellox86 docker.");
+System.out.println("In javahello");
+System.out.println("javahello docker.");
 }
 }
